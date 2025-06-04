@@ -1,0 +1,15 @@
+{
+  "item.influx.crystallized_influx": "Crystallized Influx",
+  "item.influx.influx_shard": "Influx Shard",
+  "item.influx.influx_nugget": "Influx Nugget",
+  "item.influx.influx_apple": "Influx Apple",
+  "item.influx.influx_leaf": "Influx Leaf",
+  "item.influx.leaf": "Leaf",
+
+  "block.influx.influx_block": "Block of Influx",
+  "block.influx.crystallized_influx_block": "Block of Crystallized Influx",
+  "block.influx.influx_ore": "Influx Ore",
+  "block.influx.test_block": "Test Block",
+
+  "creativetab.influx": "Influx"
+}
